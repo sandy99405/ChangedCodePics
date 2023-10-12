@@ -1,0 +1,31 @@
+Screenshots of the changed code:
+
+### PrivacyTabAdapter.java(New file added)
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(396).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(397).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(398).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(399).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(400).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/PrivacyTabAdapter/Screenshot%20(401).png
+
+### SearchFragment.java
+https://github.com/sandy99405/ChangedCodePics/blob/main/SearchFragments/Screenshot%20(394).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/SearchFragments/Screenshot%20(395).png
+
+### SettingsPrefsFragment.java
+https://github.com/sandy99405/ChangedCodePics/tree/main/SettingsPrefsFragment
+https://github.com/sandy99405/ChangedCodePics/blob/main/SettingsPrefsFragment/Screenshot%20(392).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/SettingsPrefsFragment/Screenshot%20(393).png
+
+### config.java
+https://github.com/sandy99405/ChangedCodePics/blob/main/config/Screenshot%20(386).png
+https://github.com/sandy99405/ChangedCodePics/blob/main/config/Screenshot%20(387).png
+
+### prefs_main.xml
+https://github.com/sandy99405/ChangedCodePics/blob/main/prefs_main/Screenshot%20(390).png
+
+### strings.xml
+https://github.com/sandy99405/ChangedCodePics/blob/main/strings/Screenshot%20(389).png
+
+### donottranslate.xml
+https://github.com/sandy99405/ChangedCodePics/blob/main/donottranslate/Screenshot%20(388).png
